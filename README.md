@@ -1,4 +1,4 @@
-# APTOS 2019 Blindness Detection
+# APTOS 2019 Blindness Detection and Expalnable AI (XAI-shapley) for trust
 
 ## Overview
 This project implements a convolutional neural network (CNN) for detecting diabetic retinopathy using the APTOS 2019 dataset. The model achieves an accuracy of **94.5%** on the test set. The train dataset consists of **3662 images**, which was preprocessed and seprated into train and test at random , the preprocessed images are included in this repository.
