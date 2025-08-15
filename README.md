@@ -1,7 +1,7 @@
 # APTOS 2019 Blindness Detection
 
 ## Overview
-This project implements a convolutional neural network (CNN) for detecting diabetic retinopathy using the APTOS 2019 dataset. The model achieves an accuracy of **94.5%** on the test set. The dataset consists of **3662 images**, which have been preprocessed and are included in this repository.
+This project implements a convolutional neural network (CNN) for detecting diabetic retinopathy using the APTOS 2019 dataset. The model achieves an accuracy of **94.5%** on the test set. The train dataset consists of **3662 images**, which was preprocessed and seprated into train and test at random , the preprocessed images are included in this repository.
 
 ## Dataset
 The images for this project can be downloaded from the official APTOS 2019 Blindness Detection competition page. Due to their large size, the original images were not uploaded to this repository.
